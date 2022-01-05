@@ -20,7 +20,6 @@ Introducing Libra, a therapy-booking app that resolves the above problem with th
 ![Therapist profile - 1](https://user-images.githubusercontent.com/85920674/148254875-16e1710d-99d8-45d8-81d4-ff1c6a056a6d.png)
 ![User feedback survey](https://user-images.githubusercontent.com/85920674/148254888-a36bcbfe-967f-480a-afe6-2987372a1c94.png)
 ![Video call session](https://user-images.githubusercontent.com/85920674/148254901-918153d1-9f8f-49f9-96e7-a40f89cedfe1.png)
-![Inbox - 2](https://user-images.githubusercontent.com/85920674/148254920-0130daac-4c3f-4a33-8222-b035644397df.png)
 ## Future implementations
 1. Deployment of an AI model to mathc users with therapists specific to their needs
 2. Utilization of AssemblyAI to convert therapy content to text
