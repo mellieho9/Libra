@@ -12,11 +12,15 @@ Introducing Libra, a therapy-booking app that resolves the above problem with th
 3. **In-app video chat** - The application features a private video feature that allows the user to connect directly with their therapist. The user can refer to it and the summary notes given by the therapist after the session is over in the history tab. This makes it easier for them to keep track of their discussions with the therapist.
 
 ## Wireframes
-![Questionnaire](https://drive.google.com/file/d/1xPQEEWjuA1Hd0Hry76H45tWPdY_XtDv7/view?usp=sharing)
-![Automated suggestion](https://drive.google.com/file/d/1Q68e6_r5GW5Tk2TxYVqsvxNNkXUEYhs2/view?usp=sharing)
-![Homepage](https://drive.google.com/file/d/1-iP7UnBhJ_-fd5JRqmo323pQ_dIW4vUW/view?usp=sharing)
-![Set up an appointment](https://drive.google.com/file/d/1wV0kO0r7BrtystlSm0LLCB2qEi379UL-/view?usp=sharing)
-![Video call with therapist](https://drive.google.com/file/d/1LnWnmN1kWW5_S5cecu_J3byewmDm2n7_/view?usp=sharing)
+![Daily checkup](https://user-images.githubusercontent.com/85920674/148254748-cf42ee4f-4c7b-4b2f-bf22-afecda94466b.png)
+![Do you wanna see a therapist](https://user-images.githubusercontent.com/85920674/148254774-eaf934f8-2a33-4943-971f-0fc9cacebf78.png)
+![Homescreen](https://user-images.githubusercontent.com/85920674/148254789-8f9f50ea-c444-408a-b1bf-d48f9210ff58.png)
+![Set up appointment - 1](https://user-images.githubusercontent.com/85920674/148254847-2272957d-7bfb-4e49-8544-09c9bdcb0ea7.png)
+![Set up appointment - 2](https://user-images.githubusercontent.com/85920674/148254851-81dae784-07c7-49ea-a597-1200d02936b9.png)
+![Therapist profile - 1](https://user-images.githubusercontent.com/85920674/148254875-16e1710d-99d8-45d8-81d4-ff1c6a056a6d.png)
+![User feedback survey](https://user-images.githubusercontent.com/85920674/148254888-a36bcbfe-967f-480a-afe6-2987372a1c94.png)
+![Video call session](https://user-images.githubusercontent.com/85920674/148254901-918153d1-9f8f-49f9-96e7-a40f89cedfe1.png)
+![Inbox - 2](https://user-images.githubusercontent.com/85920674/148254920-0130daac-4c3f-4a33-8222-b035644397df.png)
 ## Future implementations
 1. Deployment of an AI model to mathc users with therapists specific to their needs
 2. Utilization of AssemblyAI to convert therapy content to text
