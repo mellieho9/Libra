@@ -2,7 +2,6 @@
 //  homeVC.swift
 //  LibraFinalVersion
 //
-//  Created by Vivaan Baid on 23/10/21.
 //
 
 import Foundation
