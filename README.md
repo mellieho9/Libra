@@ -19,7 +19,7 @@ Introducing Libra, a therapy-booking app that resolves the above problem with th
 <img src="https://user-images.githubusercontent.com/85920674/148254875-16e1710d-99d8-45d8-81d4-ff1c6a056a6d.png" width="100">
 <img src="https://user-images.githubusercontent.com/85920674/148254901-918153d1-9f8f-49f9-96e7-a40f89cedfe1.png" width="100">
 ## Future implementations
-1. Deployment of an AI model to mathc users with therapists specific to their needs
+1. Deployment of an AI model to match users with therapists specific to their needs
 2. Utilization of AssemblyAI to convert therapy content to text
 3. Employment of licensed therapists from every time zones
 4. Automatic alerts to local therapists/hospitals if detects high-level stress and/or sadness in users
